@@ -80,7 +80,7 @@ function mobileHandler(){
 }
 
 
-function alertSim()
+function alertSimTiago()
 {
 alert("Obaaa!!! Meu pix é 04699593046 ❤️");
 }
